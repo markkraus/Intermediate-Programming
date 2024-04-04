@@ -1,0 +1,66 @@
+Taxpayer name is: Tim
+Ftax is: 6280.0
+Stax is: 963.98
+Ltax is: 628.0
+Ptax is: 1946.8
+Takehome is: 21581.22
+Taxpayer name is: Emma
+Ftax is: 4542.0
+Stax is: 697.197
+Ltax is: 454.2
+Ptax is: 1408.02
+Takehome is: 15608.583
+Taxpayer name is: Robert
+Ftax is: 0.0
+Stax is: 206.7031
+Ltax is: 134.66
+Ptax is: 417.44599999999997
+Takehome is: 5974.1909
+Taxpayer name is: Kayla
+Ftax is: 8300.0
+Stax is: 1274.05
+Ltax is: 830.0
+Ptax is: 2573.0
+Takehome is: 28522.95
+Taxpayer name is: Lisa
+Ftax is: 1100.0
+Stax is: 337.70000000000005
+Ltax is: 220.0
+Ptax is: 682.0
+Takehome is: 8660.3
+Taxpayer name is: Chungus
+Ftax is: 16175.0
+Stax is: 1986.2900000000002
+Ltax is: 1294.0
+Ptax is: 4011.4
+Takehome is: 41233.31
+Taxpayer name is: Mackenzie
+Ftax is: 4060.0
+Stax is: 623.21
+Ltax is: 406.0
+Ptax is: 1258.6
+Takehome is: 13952.19
+Taxpayer name is: Yan
+Ftax is: 19125.0
+Stax is: 2348.55
+Ltax is: 1530.0
+Ptax is: 4743.0
+Takehome is: 48753.45
+Taxpayer name is: Mandy
+Ftax is: 7600.0
+Stax is: 1166.6000000000001
+Ltax is: 760.0
+Ptax is: 2356.0
+Takehome is: 26117.4
+Taxpayer name is: Ryan
+Ftax is: 1986.0
+Stax is: 406.468
+Ltax is: 264.8
+Ptax is: 820.88
+Takehome is: 9761.851999999999
+Taxpayer name is: Kim
+Ftax is: 14000.0
+Stax is: 1719.2
+Ltax is: 1120.0
+Ptax is: 3472.0
+Takehome is: 35688.8
