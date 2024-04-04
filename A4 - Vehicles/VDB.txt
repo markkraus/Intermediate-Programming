@@ -1,0 +1,9 @@
+A Tesla ModelS 2700 Cobalt 2020 75 4
+A Ford Fiesta 2600 Red 2021 29 2
+A Ford Mustang 2950 Silver 2017 25 4
+A Saturn SL2 2600 Blue 2002 24 5
+T Ford F150 3200 Red 2019 22 3 1300
+MC Honda CBR1000RR 450 Red-Black 2021 65
+MC Honda CBR600RR 375 Black 2020 70
+MC Honda Metropolitan 180 Pearl 2018 100
+MC Honda PCX150 225 Blue-Black 2019 85
